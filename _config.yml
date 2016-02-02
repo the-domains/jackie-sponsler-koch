@@ -1,0 +1,28 @@
+name: Jackie Sponsler Koch
+favicon: null
+layout_spectrum: 0.2630356636364013
+typography_spectrum: 0.597092795651406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#6e7ebc'
+    - '#b9d3f4'
+    - '#281588'
+    - '#ceca21'
+    - '#bd1f8e'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.75
+purpose: []
